@@ -17,3 +17,10 @@ Python libraries
 pip install -r requirements.txt
 ```
 
+Note, you may have to put one of the following before the above command:
+
+```
+python -m
+py -m 
+```
+
