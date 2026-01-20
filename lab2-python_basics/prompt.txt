@@ -1,0 +1,2 @@
+please generate a python solution and test file for the problems below.
+provide file contents in JSON format
