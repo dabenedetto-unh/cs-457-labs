@@ -29,19 +29,24 @@ In each case, you will submit a XLSX file.
 
 ## Requirements / Rubric [20 pts]
 
-* [6] basics
+Done together:
+
+* [8] basics
     * pareto chart - GDP per capita: 
     * mean and median, 
     * histogram
-* [6] correlations
+* [8] correlations
     * GDP per capita vs Life expectancy:
     * correlation coefficient;
     * scatter plot (no scaling);
     * scatter plot (with log scaling)
-* [8] merging and grouping
-    * country + region data
-    * boxplots - GDP per capita by region
-    * pie chart - Share of global GDP by region
+
+Homework:
+
+* [4] grouping and aggregation
+    * [2] boxplots - GDP per capita by region
+    * [2] pie chart - Share of global GDP by region
+        - use SUMIF
 
 ## Instructions
 
