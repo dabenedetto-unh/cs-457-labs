@@ -41,12 +41,18 @@ Done together:
     * scatter plot (no scaling);
     * scatter plot (with log scaling)
 
-Homework:
+Homework (option A - do somthing new):
 
 * [4] grouping and aggregation
     * [2] boxplots - GDP per capita by region
     * [2] pie chart - Share of global GDP by region
+        - use a pivot table, OR
         - use SUMIF
+
+HW (option B - repeat):
+
+* repeat the basics + correlations using different data from the original dataset:
+    - [Indicators_2022](data/unmerged/Indicators_2022.csv)
 
 ## Instructions
 
