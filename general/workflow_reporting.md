@@ -10,6 +10,10 @@
 * Then, you go through the following process
     * first, try sketching out pseucode
         - how would you instruct a computer to solve this?
+        - think about:
+            - inputs 
+            - logic
+            - outputs
         - use your own language, but try to be precise
         - (compare in groups)
     * Next, use AI to generate tests and function stubs.
@@ -28,7 +32,8 @@ Each INDIVIDUAL submits these three files:
     - your initial pseudocode for 2-3 problems
     - information about the model and prompt(s) you used
     - summary of group discussions.
-* **code file(s)**: python code and tests
+    - link to OneDrive folder:
+        * **code file(s)**: python code and tests
 
 Note:
 
