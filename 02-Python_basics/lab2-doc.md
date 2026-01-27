@@ -1,12 +1,13 @@
 # Lab 2
 
-Problems:
+* Your job is to implement python functions.
+* You can find the following in the "files" directory.
+    * Problem desriptions 
+    * a solution template 
+* in addition to implementing the functions, you are required to:
+    * use AI
+    * review code with peers
 
-* lab2
-* lab2.2
-
-Problem desriptions can be found in the "files" directory.
-
-Workflow and submission:
+## Workflow and submission
 
 * [workflow_reporting](../general/workflow_reporting.md)
