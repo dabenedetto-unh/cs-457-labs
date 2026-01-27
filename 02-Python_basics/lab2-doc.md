@@ -9,4 +9,4 @@ Problem desriptions can be found in the "files" directory.
 
 Workflow and submission:
 
-* [workflow_reporting](..\general\workflow_reporting.md)
+* [workflow_reporting](../general/workflow_reporting.md)
