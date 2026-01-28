@@ -11,6 +11,8 @@ def investment_growth(p, r, n, t):
     Calculates future value using compound interest: A = P(1 + r/n)^(nt)
     Concept: Exponential growth modeling.
 
+    param r: interest rate, specified as a decimal
+
     returns future_value
     """
 
