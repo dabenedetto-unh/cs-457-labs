@@ -49,13 +49,13 @@ Note:
 * the group only needs to prepare one discussion summary 
     - but each individual in the group should add this to their report
 
-### Grading Rubric (100 Points)
+### Grading Rubric (20 Points)
 
 ---
 | Criteria | Points | Proficient (Full Credit) | Developing (Partial) |
 | --- | --- | --- | --- |
-| **Logic & Pseudocode** | 30 | Precise, human-language logic for 2–3 problems written *before* AI code. | Pseudocode is missing, or is just a copy of the final Python code. |
-| **AI Documentation** | 20 | Explicitly names the model and lists the prompts used to generate stubs/tests/solutions. | Mentions AI but doesn't provide the actual prompts or iterations. |
-| **Code & Testing** | 30 | Python code is complete and includes the AI-generated test stubs. | Code is incomplete or missing the required test cases. |
-| **Group Reflection** | 20 | Summary clearly details what the group compared or learned during the checkpoints. | Summary is extremely brief (e.g., "we compared and it was fine") or missing. |
+| **Logic & Pseudocode** | 5 | Precise, human-language logic for 2–3 problems written *before* AI code. | Pseudocode is missing, or is just a copy of the final Python code. |
+| **AI Documentation** | 5 | Explicitly names the model and lists the prompts used to generate stubs/tests/solutions. | Mentions AI but doesn't provide the actual prompts or iterations. |
+| **Code & Testing** | 5 | Python code is complete and includes the AI-generated test stubs. | Code is incomplete or missing the required test cases. |
+| **Group Reflection** | 5 | Summary clearly details what the group compared or learned during the checkpoints. | Summary is extremely brief (e.g., "we compared and it was fine") or missing. |
 ---
