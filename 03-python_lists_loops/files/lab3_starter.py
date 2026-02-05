@@ -1,9 +1,36 @@
-def summary_stats(data):
+def my_sum(data):
     '''
-    Calculate the mean and standard deviation for a list of numerical values.
+    Calculate the sum 
+    Don't use built-in functions, except for len
+    
+    :param data: list
+    returns sum
+    '''
 
-    returns tuple (mean, stdev)
+def mean(data):
     '''
+    Calculate the mean
+    calls my_sum
+    
+    :param data: list
+    returns float
+    '''
+
+def median(data):
+    '''
+    get the median
+    
+    :param data: list
+    returns float
+    '''
+
+## save for dicts
+# def summary_stats(data):
+#     '''
+#     Calculate the mean and standard deviation for a list of numerical values.
+
+#     returns tuple (mean, stdev)
+#     '''
 
 def five_number_summary(data):
     '''
