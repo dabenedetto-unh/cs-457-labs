@@ -16,14 +16,6 @@ def mean(data):
     returns float
     '''
 
-def median(data):
-    '''
-    get the median
-    
-    :param data: list
-    returns float
-    '''
-
 ## save for dicts
 # def summary_stats(data):
 #     '''
@@ -32,11 +24,19 @@ def median(data):
 #     returns tuple (mean, stdev)
 #     '''
 
-def five_number_summary(data):
+def median(data):
     '''
-    From a list of values, identify the Minimum, 25th percentile (), Median (), 75th percentile (), and Maximum.
+    get the median
+    
+    :param data: list
+    returns float
+    '''
 
-    returns tuple (min, q1, q2, q3, max)
+def quantiles(data):
+    '''
+    From a list of values, identify the 25th percentile (), Median (), 75th percentile ()
+
+    returns tuple (q1, q2, q3)
     '''
 
 def batch_min_max_scaler(data):
