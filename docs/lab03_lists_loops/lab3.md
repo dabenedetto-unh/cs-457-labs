@@ -1,10 +1,10 @@
-# Lab 2
+# Lab 3
 
 * Your job is to implement python functions and tests.
-* You can find the following in the "/src/lab02" directory.
-    * lab2.py
+* You can find the following in the "/src/lab03" directory.
+    * lab3.py
         - contains function headers and descriptions
-    * test_lab2.py
+    * test_lab3.py
         - contains example I/O
 
 ## Workflow and submission
