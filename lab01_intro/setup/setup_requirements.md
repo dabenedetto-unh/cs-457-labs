@@ -1,14 +1,9 @@
-Spreadsheet
-
-* Excel (recommended)
-* OR Google Sheets
-
-Python
+## Install python and VS Code:
 
 * https://www.python.org/downloads/
 * https://code.visualstudio.com/download 
 
-Python libraries
+## Install Python libraries
 
 * install using pip
 * in VSCode terminal:
@@ -23,4 +18,3 @@ Note, you may have to put one of the following before the above command:
 python -m
 py -m 
 ```
-
