@@ -16,14 +16,6 @@ def mean(data):
     returns float
     '''
 
-## save for dicts
-# def summary_stats(data):
-#     '''
-#     Calculate the mean and standard deviation for a list of numerical values.
-
-#     returns tuple (mean, stdev)
-#     '''
-
 def median(data):
     '''
     get the median
