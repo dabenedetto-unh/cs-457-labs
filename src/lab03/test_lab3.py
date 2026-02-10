@@ -1,5 +1,9 @@
 import unittest
-from lab3 import my_sum, mean, median, quartiles
+
+try:
+    from lab3 import *
+except ImportError:
+    from .lab3 import *
 
 class TestLab3(unittest.TestCase):
     

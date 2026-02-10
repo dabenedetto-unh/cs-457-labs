@@ -1,6 +1,9 @@
 import unittest
 
-from lab2 import euclidean_distance, investment_growth, min_max_scaler, parse_timestamp, sentiment_binner
+try:
+    from lab2 import *
+except ImportError:
+    from .lab2 import *
 
 class TestLab2Problems(unittest.TestCase):
 

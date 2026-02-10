@@ -1,7 +1,17 @@
 import unittest
 
-from lab04_dicts import *
-from lab04_strings import phone_cleaner_batch, parse_currency_batch
+try: 
+    # load from current directory
+    from lab04_dicts import *
+    from lab04_strings import *
+    from lab04_files import *
+    filepath = "data/test_data.csv"
+except ImportError:
+    # load from package (for unittest)
+    from .lab04_dicts import *
+    from .lab04_strings import *
+    from .lab04_files import *
+    filepath = "solutions/lab04/data/test_data.csv"
 
 class TestLabFunctions(unittest.TestCase):
     
@@ -12,12 +22,35 @@ class TestLabFunctions(unittest.TestCase):
         ['5551234567', '5551234567', '5551234567']
         '''
 
-
     def test_parse_currency_batch(self):
         '''
         examples:
         >>> parse_currency_batch(["$1,234.56", "$7,890.12"])
         [1234.56, 7890.12]
+        '''
+
+    def test_unique(self):
+        '''
+        example:
+        unique(["apple", "banana", "apple", "orange"]) should return ["apple", "banana", "orange"]
+        '''
+
+    def test_frequency_counter(self):
+        '''
+        example:
+        frequency_counter(["apple", "banana", "apple", "orange"]) should return {"apple": 2, "banana": 1, "orange": 1}
+        '''
+
+    def test_read_csv(self):
+        '''
+        example:
+        read_csv("test_data.csv") should return a list of lists representing the rows in the CSV file.
+        '''
+
+    def test_read_csv_dict(self):
+        '''
+        example:
+        read_csv_dict("test_data.csv") should return a list of dictionaries representing the rows in the CSV file, using the first row as keys.
         '''
 
 
