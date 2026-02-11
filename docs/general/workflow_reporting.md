@@ -44,19 +44,11 @@
 
 ## Submission
 
-Each INDIVIDUAL submits these three files:
+Each INDIVIDUAL submits these files:
 
-* **single-file report**, including:
-    - your initial pseudocode for 2-3 problems
-    - information about the model and prompt(s) you used
-    - summary of group discussions.
-    - link to OneDrive folder:
-        * **code file(s)**: python code and tests
-
-Note:
-
-* the group only needs to prepare one discussion summary 
-    - but each individual in the group should add this to their report
+* **single-file report**, containing the four sections above, clearly delineated.
+* **code file(s)**: python code and tests.
+    - you may submit these directly or include a link (e.g. to OneDrive) in your report.
 
 ### Grading Rubric (20 Points)
 
