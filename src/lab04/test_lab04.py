@@ -1,12 +1,14 @@
 import unittest
 
-try: 
+# try: 
+if __name__ == "__main__":
     # load from current directory
     from lab04_dicts import *
     from lab04_strings import *
     from lab04_files import *
     filepath = "data/test_data.csv"
-except ImportError:
+# except ImportError:
+else:
     # load from package (for unittest)
     from .lab04_dicts import *
     from .lab04_strings import *
