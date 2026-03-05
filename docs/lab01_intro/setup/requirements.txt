@@ -5,3 +5,5 @@ matplotlib
 scipy
 kagglehub
 plotly
+geopandas
+thefuzz[speedup]
