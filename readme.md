@@ -1,12 +1,10 @@
 ## Docs
 
-* /docs/ folder
-* Contains notes and tutorials (typically in .ipynb format)
-
-## Src
-
-* /src/ folder
-* Contains source code (.py) and data (.csv) files.
+* labs/
+    - labXX
+        - data/     # data, .csv files
+        - notes/    # notes to demonstrate key concepts, typically .ipynb
+        - src/      # python source code, .py
 
 ---
 
