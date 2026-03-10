@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+kagglehub
+plotly
+geopandas
+thefuzz[speedup]
